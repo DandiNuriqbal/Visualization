@@ -1,0 +1,16 @@
+SUM Benefit,SUM Sales,Department List,Department Percentage,Benefits,Sales,Customer Region,Total,Region_Percentage,Departement List,Order Item Total,Order Item Profit Ratio,Order Item Status,Order Item Status Total Percentage,Departement List.1,Customer Segment,Customer Segment Total
+2494589475813.0,2333174960443.0,Sports A,0.155,389729113610.0,398798846211.0,Pacific Asia,341.0,0.341,Sports A,398798846211.0,12922999939.0,COMPLETE,0.443,Sports A,Consumer,60
+,,Sports B,0.134,197107301457.0,526688198728.0,Africa,101.0,0.101,Sports B,526688198728.0,13201999997.0,PENDING,0.133,,Corporate,66
+,,Men's & Babies's Equipment,0.417,1091029641928.0,903697388669.0,Europe,343.0,0.343,Men's & Babies's Equipment,903697388669.0,37758999969.0,PENDING_PAYMENT,0.156,,Home Office,29
+,,Women's,0.222,656458219906.0,247256698919.0,LATAM,179.0,0.179,Women's,247256698919.0,30803999781.0,PROCESSING,0.15,Sports B,Consumer,111
+,,Others,0.07,160265198912.0,256733827916.0,USCA,36.0,0.036,Others,256733827916.0,12545999925.0,OTHERS,0.11800000000000001,,Corporate,0
+,,,,,,,1000.0,,,,,,,,Home Office,23
+,,,,,,,,,,,,,,Men's & Babies's Equipment,Consumer,238
+,,,,,,,,,,,,,,,Corporate,140
+,,,,,,,,,,,,,,,Home Office,39
+,,,,,,,,,,,,,,Women's,Consumer,128
+,,,,,,,,,,,,,,,Corporate,35
+,,,,,,,,,,,,,,,Home Office,59
+,,,,,,,,,,,,,,Others,Consumer,57
+,,,,,,,,,,,,,,,Corporate,4
+,,,,,,,,,,,,,,,Home Office,4
