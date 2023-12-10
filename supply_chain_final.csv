@@ -1,16 +1,16 @@
-benefit,sales,department_list,department_percentage,benefits,sales.1,customer_region,total,region_percentage,department_list.1,order_item_total,order_item_profit_ratio,order_item_status,order_status_percentage,department_list.2,customer_segment,customer_segment_total
-249.46,233.32,Sports A,0.155,38.97,39.88,Pacific Asia,341.0,0.341,Sports A,39.88,12.92,COMPLETE,0.443,Sports A,Consumer,60
-,,Sports B,0.134,19.71,52.67,Africa,101.0,0.101,Sports B,52.67,13.2,PENDING,0.133,,Corporate,66
-,,Men's & Children's,0.417,109.1,90.37,Europe,343.0,0.343,Men's & Children's,90.37,37.76,PENDING_PAYMENT,0.156,,Home Office,29
-,,Women's,0.222,65.65,24.73,LATAM,179.0,0.179,Women's,24.73,30.8,PROCESSING,0.15,Sports B,Consumer,111
-,,Others,0.07,16.03,25.67,USCA,36.0,0.036,Others,25.67,12.55,OTHERS,0.11800000000000001,,Corporate,0
-,,,,,,,1000.0,,,,,,,,Home Office,23
-,,,,,,,,,,,,,,Men's & Children's,Consumer,238
-,,,,,,,,,,,,,,,Corporate,140
-,,,,,,,,,,,,,,,Home Office,39
-,,,,,,,,,,,,,,Women's,Consumer,128
-,,,,,,,,,,,,,,,Corporate,35
-,,,,,,,,,,,,,,,Home Office,59
-,,,,,,,,,,,,,,Others,Consumer,57
-,,,,,,,,,,,,,,,Corporate,4
-,,,,,,,,,,,,,,,Home Office,4
+department_percentage,department_list,benefits,sales,customer_region,total,region_percentage,order_item_total,order_item_profit_ratio,order_item_status,order_status_percentage,department_list.1,customer_segment,customer_segment_total
+0.155,Sports A,38.97,39.88,Pacific Asia,341.0,0.341,39.88,12.92,COMPLETE,0.443,Sports A,Consumer,60
+0.134,Sports B,19.71,52.67,Africa,101.0,0.101,52.67,13.2,PENDING,0.133,,Corporate,66
+0.417,Men's & Children's,109.1,90.37,Europe,343.0,0.343,90.37,37.76,PENDING_PAYMENT,0.156,,Home Office,29
+0.222,Women's,65.65,24.73,LATAM,179.0,0.179,24.73,30.8,PROCESSING,0.15,Sports B,Consumer,111
+0.07,Others,16.03,25.67,USCA,36.0,0.036,25.67,12.55,OTHERS,0.11800000000000001,,Corporate,0
+,,,,,1000.0,,,,,,,Home Office,23
+,,,,,,,,,,,Men's & Children's,Consumer,238
+,,,,,,,,,,,,Corporate,140
+,,,,,,,,,,,,Home Office,39
+,,,,,,,,,,,Women's,Consumer,128
+,,,,,,,,,,,,Corporate,35
+,,,,,,,,,,,,Home Office,59
+,,,,,,,,,,,Others,Consumer,57
+,,,,,,,,,,,,Corporate,4
+,,,,,,,,,,,,Home Office,4
