@@ -1,4 +1,4 @@
-date,Category Name,benefits_order,sales_order,department_percentage,department_list,benefits,sales,customer_region,total,region_percentage,order_item_total,order_item_profit_ratio,department_list_a,customer_segment,customer_segment_total
+date,department_name,benefits_order,sales_order,department_percentage,department_list,benefits,sales,customer_region,total,region_percentage,order_item_total,order_item_profit_ratio,department_list_a,customer_segment,customer_segment_total
 2017-01-01,Sports A,9125,3146400146,0.155,Sports A,38.97,39.88,Pacific Asia,341.0,0.341,39.88,12.92,Sports A,Consumer,60.0
 2017-01-01,Sports A,-2490899963,3113599854,0.134,Sports B,19.71,52.67,Africa,101.0,0.101,52.67,13.2,,Corporate,66.0
 2017-01-02,Sports A,-2477799988,3097200012,0.417,Men's & Children's,109.1,90.37,Europe,343.0,0.343,90.37,37.76,,Home Office,29.0
